@@ -6,3 +6,5 @@
 适用于挂机、下载等长时间工作的情况
 
 ![截图](images/screenshot.png)
+
+![截图](images/screenshot2.png)
